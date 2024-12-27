@@ -1,0 +1,69 @@
+<form id="loginForm">
+  <div class="mb-3">
+    <label for="email" class="form-label">Email address</label>
+    <input style="background-color:bisque;"
+      type="email"
+      class="form-control"
+      id="email"
+      name="email"
+      value="sasha1@gmail.com"
+      aria-describedby="emailHelp"
+    />
+  </div>
+  <div class="mb-3">
+    <label for="password" class="form-label">Password</label>
+    <input style="background-color:bisque;"
+      type="password"
+      class="form-control"
+      id="password"
+      name="password"
+      value="qwertya"
+    />
+  </div>
+  <button type="submit" class="btn btn-success">Submit</button>
+</form>
+
+<div id="welcome">
+    <h3>IT-INFO ga xush kelibsiz!</h3>
+</div>
+
+<script>
+    const form = document.getElementById("loginForm")
+    form.addEventListener("submit", async (e) => {
+        e.preventDefault()
+        const email = document.getElementById("email").value
+        const password = document.getElementById("password").value
+        try{
+            fetch("http://localhost:3000/api/author/login", {
+                method: "POST",
+                headers: {
+                    "Content-Type": "application/json"
+                },
+                body: JSON.stringify({
+                    email,
+                    password
+                })
+            }).then((response) => {
+                console.log(response)
+                if(response.ok){
+                    console.log("Login successfully")
+                    return response.json()
+                } else {
+                    console.log("Login failed")
+                }
+            }).then((data) => {
+                console.log(data)
+                
+                localStorage.setItem("Author_accesToken", data.accesToken)
+
+                form.style.display = "none"
+                const welcome = document.getElementById("welcome")
+                welcome.style.display = "block"
+            }).catch((error) => {
+                console.log("Xatolik yuz berdi! => ", error)
+            })
+        } catch(error){
+            console.log(error.message)
+        }
+    })
+</script>

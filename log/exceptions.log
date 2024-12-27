@@ -1,0 +1,1184 @@
+2024-12-23T11:43:45.011Z [31merror[39m: uncaughtException: Cannot find module './my-express-router'
+Require stack:
+- C:\Users\saman\ITINFO\app.js
+Error: Cannot find module './my-express-router'
+Require stack:
+- C:\Users\saman\ITINFO\app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1225:15)
+    at Module._load (node:internal/modules/cjs/loader:1051:27)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (C:\Users\saman\ITINFO\app.js:54:14)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:174:12) 
+2024-12-23T11:44:06.114Z [31merror[39m: uncaughtException: Cannot find module './my-express-router'
+Require stack:
+- C:\Users\saman\ITINFO\app.js
+Error: Cannot find module './my-express-router'
+Require stack:
+- C:\Users\saman\ITINFO\app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1225:15)
+    at Module._load (node:internal/modules/cjs/loader:1051:27)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (C:\Users\saman\ITINFO\app.js:54:14)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:174:12) 
+2024-12-23T11:44:43.505Z [31merror[39m: uncaughtException: Cannot find module './my-express-router'
+Require stack:
+- C:\Users\saman\ITINFO\app.js
+Error: Cannot find module './my-express-router'
+Require stack:
+- C:\Users\saman\ITINFO\app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1225:15)
+    at Module._load (node:internal/modules/cjs/loader:1051:27)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (C:\Users\saman\ITINFO\app.js:54:14)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:174:12) 
+2024-12-23T12:10:18.311Z [31merror[39m: uncaughtException: Cannot find module './my-express-router'
+Require stack:
+- C:\Users\saman\ITINFO\app.js
+Error: Cannot find module './my-express-router'
+Require stack:
+- C:\Users\saman\ITINFO\app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1225:15)
+    at Module._load (node:internal/modules/cjs/loader:1051:27)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (C:\Users\saman\ITINFO\app.js:54:14)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:174:12) 
+2024-12-23T12:10:19.094Z [31merror[39m: uncaughtException: Cannot find module './my-express-router'
+Require stack:
+- C:\Users\saman\ITINFO\app.js
+Error: Cannot find module './my-express-router'
+Require stack:
+- C:\Users\saman\ITINFO\app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1225:15)
+    at Module._load (node:internal/modules/cjs/loader:1051:27)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (C:\Users\saman\ITINFO\app.js:54:14)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:174:12) 
+2024-12-23T12:30:28.903Z [31merror[39m: uncaughtException: Cannot find module './my-express-router'
+Require stack:
+- C:\Users\saman\ITINFO\app.js
+Error: Cannot find module './my-express-router'
+Require stack:
+- C:\Users\saman\ITINFO\app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1225:15)
+    at Module._load (node:internal/modules/cjs/loader:1051:27)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (C:\Users\saman\ITINFO\app.js:54:14)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:174:12) 
+2024-12-23T12:30:29.639Z [31merror[39m: uncaughtException: Cannot find module './my-express-router'
+Require stack:
+- C:\Users\saman\ITINFO\app.js
+Error: Cannot find module './my-express-router'
+Require stack:
+- C:\Users\saman\ITINFO\app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1225:15)
+    at Module._load (node:internal/modules/cjs/loader:1051:27)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (C:\Users\saman\ITINFO\app.js:54:14)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:174:12) 
+2024-12-23T13:21:05.579Z [31merror[39m: uncaughtException: Cannot find module './my-express-router'
+Require stack:
+- C:\Users\saman\ITINFO\app.js
+Error: Cannot find module './my-express-router'
+Require stack:
+- C:\Users\saman\ITINFO\app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1225:15)
+    at Module._load (node:internal/modules/cjs/loader:1051:27)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (C:\Users\saman\ITINFO\app.js:54:14)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:174:12) 
+2024-12-23T13:21:06.476Z [31merror[39m: uncaughtException: Cannot find module './my-express-router'
+Require stack:
+- C:\Users\saman\ITINFO\app.js
+Error: Cannot find module './my-express-router'
+Require stack:
+- C:\Users\saman\ITINFO\app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1225:15)
+    at Module._load (node:internal/modules/cjs/loader:1051:27)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (C:\Users\saman\ITINFO\app.js:54:14)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:174:12) 
+2024-12-23T13:23:16.719Z [31merror[39m: uncaughtException: Cannot find module './my-express-router'
+Require stack:
+- C:\Users\saman\ITINFO\app.js
+Error: Cannot find module './my-express-router'
+Require stack:
+- C:\Users\saman\ITINFO\app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1225:15)
+    at Module._load (node:internal/modules/cjs/loader:1051:27)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (C:\Users\saman\ITINFO\app.js:54:14)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:174:12) 
+2024-12-24T03:15:23.735Z [31merror[39m: uncaughtException: Cannot find module './my-express-router'
+Require stack:
+- C:\Users\saman\ITINFO\app.js
+Error: Cannot find module './my-express-router'
+Require stack:
+- C:\Users\saman\ITINFO\app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1225:15)
+    at Module._load (node:internal/modules/cjs/loader:1051:27)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (C:\Users\saman\ITINFO\app.js:54:14)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:174:12) 
+2024-12-24T03:15:24.548Z [31merror[39m: uncaughtException: Cannot find module './my-express-router'
+Require stack:
+- C:\Users\saman\ITINFO\app.js
+Error: Cannot find module './my-express-router'
+Require stack:
+- C:\Users\saman\ITINFO\app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1225:15)
+    at Module._load (node:internal/modules/cjs/loader:1051:27)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (C:\Users\saman\ITINFO\app.js:54:14)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:174:12) 
+2024-12-24T03:16:01.568Z [31merror[39m: uncaughtException: Cannot find module './my-express-router'
+Require stack:
+- C:\Users\saman\ITINFO\app.js
+Error: Cannot find module './my-express-router'
+Require stack:
+- C:\Users\saman\ITINFO\app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1225:15)
+    at Module._load (node:internal/modules/cjs/loader:1051:27)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (C:\Users\saman\ITINFO\app.js:54:14)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:174:12) 
+2024-12-24T03:16:30.681Z [31merror[39m: uncaughtException: Cannot find module './my-express-router'
+Require stack:
+- C:\Users\saman\ITINFO\app.js
+Error: Cannot find module './my-express-router'
+Require stack:
+- C:\Users\saman\ITINFO\app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1225:15)
+    at Module._load (node:internal/modules/cjs/loader:1051:27)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (C:\Users\saman\ITINFO\app.js:54:14)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:174:12) 
+2024-12-24T03:16:32.570Z [31merror[39m: uncaughtException: Cannot find module './my-express-router'
+Require stack:
+- C:\Users\saman\ITINFO\app.js
+Error: Cannot find module './my-express-router'
+Require stack:
+- C:\Users\saman\ITINFO\app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1225:15)
+    at Module._load (node:internal/modules/cjs/loader:1051:27)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (C:\Users\saman\ITINFO\app.js:54:14)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:174:12) 
+2024-12-24T03:16:34.981Z [31merror[39m: uncaughtException: Cannot find module './my-express-router'
+Require stack:
+- C:\Users\saman\ITINFO\app.js
+Error: Cannot find module './my-express-router'
+Require stack:
+- C:\Users\saman\ITINFO\app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1225:15)
+    at Module._load (node:internal/modules/cjs/loader:1051:27)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (C:\Users\saman\ITINFO\app.js:54:14)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:174:12) 
+2024-12-24T03:16:41.820Z [31merror[39m: uncaughtException: Cannot find module './my-express-router'
+Require stack:
+- C:\Users\saman\ITINFO\app.js
+Error: Cannot find module './my-express-router'
+Require stack:
+- C:\Users\saman\ITINFO\app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1225:15)
+    at Module._load (node:internal/modules/cjs/loader:1051:27)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (C:\Users\saman\ITINFO\app.js:54:14)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:174:12) 
+2024-12-24T03:17:00.720Z [31merror[39m: uncaughtException: Cannot find module './my-express-router'
+Require stack:
+- C:\Users\saman\ITINFO\app.js
+Error: Cannot find module './my-express-router'
+Require stack:
+- C:\Users\saman\ITINFO\app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1225:15)
+    at Module._load (node:internal/modules/cjs/loader:1051:27)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (C:\Users\saman\ITINFO\app.js:54:14)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:174:12) 
+2024-12-24T03:17:07.881Z [31merror[39m: uncaughtException: Cannot find module './my-express-router'
+Require stack:
+- C:\Users\saman\ITINFO\app.js
+Error: Cannot find module './my-express-router'
+Require stack:
+- C:\Users\saman\ITINFO\app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1225:15)
+    at Module._load (node:internal/modules/cjs/loader:1051:27)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (C:\Users\saman\ITINFO\app.js:54:14)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:174:12) 
+2024-12-24T03:17:16.217Z [31merror[39m: uncaughtException: Cannot find module './my-express-router'
+Require stack:
+- C:\Users\saman\ITINFO\app.js
+Error: Cannot find module './my-express-router'
+Require stack:
+- C:\Users\saman\ITINFO\app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1225:15)
+    at Module._load (node:internal/modules/cjs/loader:1051:27)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (C:\Users\saman\ITINFO\app.js:54:14)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:174:12) 
+2024-12-24T03:17:22.459Z [31merror[39m: uncaughtException: Cannot find module './'
+Require stack:
+- C:\Users\saman\ITINFO\routes\index.routes.js
+- C:\Users\saman\ITINFO\app.js
+Error: Cannot find module './'
+Require stack:
+- C:\Users\saman\ITINFO\routes\index.routes.js
+- C:\Users\saman\ITINFO\app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1225:15)
+    at Module._load (node:internal/modules/cjs/loader:1051:27)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (C:\Users\saman\ITINFO\routes\index.routes.js:6:23)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19) 
+2024-12-24T03:17:25.361Z [31merror[39m: uncaughtException: Cannot find module './my-express-router'
+Require stack:
+- C:\Users\saman\ITINFO\app.js
+Error: Cannot find module './my-express-router'
+Require stack:
+- C:\Users\saman\ITINFO\app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1225:15)
+    at Module._load (node:internal/modules/cjs/loader:1051:27)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (C:\Users\saman\ITINFO\app.js:54:14)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:174:12) 
+2024-12-24T03:17:31.715Z [31merror[39m: uncaughtException: Cannot find module './my-express-router'
+Require stack:
+- C:\Users\saman\ITINFO\app.js
+Error: Cannot find module './my-express-router'
+Require stack:
+- C:\Users\saman\ITINFO\app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1225:15)
+    at Module._load (node:internal/modules/cjs/loader:1051:27)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (C:\Users\saman\ITINFO\app.js:54:14)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:174:12) 
+2024-12-24T03:17:34.460Z [31merror[39m: uncaughtException: Cannot find module './my-express-router'
+Require stack:
+- C:\Users\saman\ITINFO\app.js
+Error: Cannot find module './my-express-router'
+Require stack:
+- C:\Users\saman\ITINFO\app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1225:15)
+    at Module._load (node:internal/modules/cjs/loader:1051:27)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (C:\Users\saman\ITINFO\app.js:54:14)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:174:12) 
+2024-12-24T04:17:18.575Z [31merror[39m: uncaughtException: Cannot find module './my-express-router'
+Require stack:
+- C:\Users\saman\ITINFO\app.js
+Error: Cannot find module './my-express-router'
+Require stack:
+- C:\Users\saman\ITINFO\app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1225:15)
+    at Module._load (node:internal/modules/cjs/loader:1051:27)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (C:\Users\saman\ITINFO\app.js:54:14)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:174:12) 
+2024-12-24T04:17:19.235Z [31merror[39m: uncaughtException: Cannot find module './my-express-router'
+Require stack:
+- C:\Users\saman\ITINFO\app.js
+Error: Cannot find module './my-express-router'
+Require stack:
+- C:\Users\saman\ITINFO\app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1225:15)
+    at Module._load (node:internal/modules/cjs/loader:1051:27)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (C:\Users\saman\ITINFO\app.js:54:14)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:174:12) 
+2024-12-24T10:54:38.923Z [31merror[39m: uncaughtException: unCaughtExceptionError
+Error: unCaughtExceptionError
+    at Timeout._onTimeout (C:\Users\saman\ITINFO\controllers\author.controller.js:62:21)
+    at listOnTimeout (node:internal/timers:581:17)
+    at process.processTimers (node:internal/timers:519:7) 
+2024-12-24T11:18:54.844Z [31merror[39m: uncaughtException: unCaughtExceptionError
+Error: unCaughtExceptionError
+    at Timeout._onTimeout (C:\Users\saman\ITINFO\controllers\author.controller.js:62:21)
+    at listOnTimeout (node:internal/timers:581:17)
+    at process.processTimers (node:internal/timers:519:7) 
+2024-12-25T07:05:10.573Z [31merror[39m: uncaughtException: getAll is not defined
+ReferenceError: getAll is not defined
+    at Object.<anonymous> (C:\Users\saman\ITINFO\routes\view.routes.js:7:4)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (C:\Users\saman\ITINFO\app.js:10:20)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10) 
+2024-12-25T07:05:45.931Z [31merror[39m: uncaughtException: getAllDictionary is not defined
+ReferenceError: getAllDictionary is not defined
+    at Object.<anonymous> (C:\Users\saman\ITINFO\routes\view.routes.js:16:3)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (C:\Users\saman\ITINFO\app.js:10:20)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10) 
+2024-12-25T07:05:50.187Z [31merror[39m: uncaughtException: getAllDictionary is not defined
+ReferenceError: getAllDictionary is not defined
+    at Object.<anonymous> (C:\Users\saman\ITINFO\routes\view.routes.js:16:3)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (C:\Users\saman\ITINFO\app.js:10:20)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10) 
+2024-12-25T07:07:29.466Z [31merror[39m: uncaughtException: Unexpected token '}'
+C:\Users\saman\ITINFO\routes\view.routes.js:9
+  res.render(creatViewPage("dictionary"), { title: "Lug'atlar", isDict: true, data:  });
+                                                                                     ^
+
+SyntaxError: Unexpected token '}'
+    at wrapSafe (node:internal/modules/cjs/loader:1378:20)
+    at Module._compile (node:internal/modules/cjs/loader:1428:41)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (C:\Users\saman\ITINFO\app.js:10:20)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10) 
+2024-12-25T07:07:48.492Z [31merror[39m: uncaughtException: Unexpected token '}'
+C:\Users\saman\ITINFO\routes\view.routes.js:10
+  res.render(creatViewPage("dictionary"), { title: "Lug'atlar", isDict: true, data:  });
+                                                                                     ^
+
+SyntaxError: Unexpected token '}'
+    at wrapSafe (node:internal/modules/cjs/loader:1378:20)
+    at Module._compile (node:internal/modules/cjs/loader:1428:41)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (C:\Users\saman\ITINFO\app.js:10:20)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10) 
+2024-12-25T07:08:06.189Z [31merror[39m: uncaughtException: Unexpected token ';'
+C:\Users\saman\ITINFO\routes\view.routes.js:1
+const { getAllDictionary  = require("../controllers/dictionary.controller");
+                                                                           ^
+
+SyntaxError: Unexpected token ';'
+    at wrapSafe (node:internal/modules/cjs/loader:1378:20)
+    at Module._compile (node:internal/modules/cjs/loader:1428:41)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (C:\Users\saman\ITINFO\app.js:10:20)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10) 
+2024-12-25T07:10:12.523Z [31merror[39m: uncaughtException: Route.get() requires a callback function but got a [object Object]
+Error: Route.get() requires a callback function but got a [object Object]
+    at Route.<computed> [as get] (C:\Users\saman\ITINFO\node_modules\express\lib\router\route.js:216:15)
+    at proto.<computed> [as get] (C:\Users\saman\ITINFO\node_modules\express\lib\router\index.js:521:19)
+    at Object.<anonymous> (C:\Users\saman\ITINFO\routes\view.routes.js:9:8)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (C:\Users\saman\ITINFO\app.js:10:20) 
+2024-12-25T07:10:38.049Z [31merror[39m: uncaughtException: Route.get() requires a callback function but got a [object Object]
+Error: Route.get() requires a callback function but got a [object Object]
+    at Route.<computed> [as get] (C:\Users\saman\ITINFO\node_modules\express\lib\router\route.js:216:15)
+    at proto.<computed> [as get] (C:\Users\saman\ITINFO\node_modules\express\lib\router\index.js:521:19)
+    at Object.<anonymous> (C:\Users\saman\ITINFO\routes\view.routes.js:9:8)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (C:\Users\saman\ITINFO\app.js:10:20) 
+2024-12-25T07:10:58.127Z [31merror[39m: uncaughtException: Malformed arrow function parameter list
+C:\Users\saman\ITINFO\routes\view.routes.js:9
+router.get("/dict",getAllDictionary (req, res) => {
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+SyntaxError: Malformed arrow function parameter list
+    at wrapSafe (node:internal/modules/cjs/loader:1378:20)
+    at Module._compile (node:internal/modules/cjs/loader:1428:41)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (C:\Users\saman\ITINFO\app.js:10:20)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10) 
+2024-12-25T07:10:59.343Z [31merror[39m: uncaughtException: Route.get() requires a callback function but got a [object Object]
+Error: Route.get() requires a callback function but got a [object Object]
+    at Route.<computed> [as get] (C:\Users\saman\ITINFO\node_modules\express\lib\router\route.js:216:15)
+    at proto.<computed> [as get] (C:\Users\saman\ITINFO\node_modules\express\lib\router\index.js:521:19)
+    at Object.<anonymous> (C:\Users\saman\ITINFO\routes\view.routes.js:9:8)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (C:\Users\saman\ITINFO\app.js:10:20) 
+2024-12-25T07:11:01.532Z [31merror[39m: uncaughtException: Route.get() requires a callback function but got a [object Object]
+Error: Route.get() requires a callback function but got a [object Object]
+    at Route.<computed> [as get] (C:\Users\saman\ITINFO\node_modules\express\lib\router\route.js:216:15)
+    at proto.<computed> [as get] (C:\Users\saman\ITINFO\node_modules\express\lib\router\index.js:521:19)
+    at Object.<anonymous> (C:\Users\saman\ITINFO\routes\view.routes.js:9:8)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (C:\Users\saman\ITINFO\app.js:10:20) 
+2024-12-25T07:29:09.430Z [31merror[39m: uncaughtException: Unexpected identifier 'Dictionary'
+C:\Users\saman\ITINFO\controllers\dictionary.controller.js:7
+    const { data } = awaitDictio Dictionary.find();
+                                 ^^^^^^^^^^
+
+SyntaxError: Unexpected identifier 'Dictionary'
+    at wrapSafe (node:internal/modules/cjs/loader:1378:20)
+    at Module._compile (node:internal/modules/cjs/loader:1428:41)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (C:\Users\saman\ITINFO\routes\dictionary.routes.js:1:83)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10) 
+2024-12-25T07:29:15.084Z [31merror[39m: uncaughtException: Unexpected token '{'
+C:\Users\saman\ITINFO\controllers\dictionary.controller.js:7
+    const { data } = await Dictionary.find();
+          ^
+
+SyntaxError: Unexpected token '{'
+    at wrapSafe (node:internal/modules/cjs/loader:1378:20)
+    at Module._compile (node:internal/modules/cjs/loader:1428:41)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (C:\Users\saman\ITINFO\routes\dictionary.routes.js:1:83)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10) 
+2024-12-25T07:41:46.848Z [31merror[39m: uncaughtException: Missing initializer in const declaration
+C:\Users\saman\ITINFO\routes\view.routes.js:10
+    res.render(creatViewPage("index"), {
+    ^^^
+
+SyntaxError: Missing initializer in const declaration
+    at wrapSafe (node:internal/modules/cjs/loader:1378:20)
+    at Module._compile (node:internal/modules/cjs/loader:1428:41)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (C:\Users\saman\ITINFO\app.js:10:20)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10) 
+2024-12-25T07:41:47.940Z [31merror[39m: uncaughtException: Missing initializer in const declaration
+C:\Users\saman\ITINFO\routes\view.routes.js:9
+    const item
+          ^^^^
+
+SyntaxError: Missing initializer in const declaration
+    at wrapSafe (node:internal/modules/cjs/loader:1378:20)
+    at Module._compile (node:internal/modules/cjs/loader:1428:41)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (C:\Users\saman\ITINFO\app.js:10:20)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10) 
+2024-12-25T07:42:48.387Z [31merror[39m: uncaughtException: Route.get() requires a callback function but got a [object Object]
+Error: Route.get() requires a callback function but got a [object Object]
+    at Route.<computed> [as get] (C:\Users\saman\ITINFO\node_modules\express\lib\router\route.js:216:15)
+    at proto.<computed> [as get] (C:\Users\saman\ITINFO\node_modules\express\lib\router\index.js:521:19)
+    at Object.<anonymous> (C:\Users\saman\ITINFO\routes\view.routes.js:9:8)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (C:\Users\saman\ITINFO\app.js:10:20) 
+2024-12-25T08:02:17.346Z [31merror[39m: uncaughtException: write after end
+Error: write after end
+    at writeAfterEnd (C:\Users\saman\ITINFO\node_modules\readable-stream\lib\_stream_writable.js:264:12)
+    at Writable.write (C:\Users\saman\ITINFO\node_modules\readable-stream\lib\_stream_writable.js:300:21)
+    at File.log (C:\Users\saman\ITINFO\node_modules\winston\lib\winston\transports\file.js:222:34)
+    at RejectionStream._write (C:\Users\saman\ITINFO\node_modules\winston\lib\winston\rejection-stream.js:46:29)
+    at doWrite (C:\Users\saman\ITINFO\node_modules\readable-stream\lib\_stream_writable.js:390:139)
+    at writeOrBuffer (C:\Users\saman\ITINFO\node_modules\readable-stream\lib\_stream_writable.js:381:5)
+    at Writable.write (C:\Users\saman\ITINFO\node_modules\readable-stream\lib\_stream_writable.js:302:11)
+    at DerivedLogger.ondata (C:\Users\saman\ITINFO\node_modules\readable-stream\lib\_stream_readable.js:629:20)
+    at DerivedLogger.emit (node:events:531:35)
+    at addChunk (C:\Users\saman\ITINFO\node_modules\readable-stream\lib\_stream_readable.js:279:12) 
+2024-12-25T08:18:24.620Z [31merror[39m: uncaughtException: write after end
+Error: write after end
+    at writeAfterEnd (C:\Users\saman\ITINFO\node_modules\readable-stream\lib\_stream_writable.js:264:12)
+    at Writable.write (C:\Users\saman\ITINFO\node_modules\readable-stream\lib\_stream_writable.js:300:21)
+    at File.log (C:\Users\saman\ITINFO\node_modules\winston\lib\winston\transports\file.js:222:34)
+    at RejectionStream._write (C:\Users\saman\ITINFO\node_modules\winston\lib\winston\rejection-stream.js:46:29)
+    at doWrite (C:\Users\saman\ITINFO\node_modules\readable-stream\lib\_stream_writable.js:390:139)
+    at writeOrBuffer (C:\Users\saman\ITINFO\node_modules\readable-stream\lib\_stream_writable.js:381:5)
+    at Writable.write (C:\Users\saman\ITINFO\node_modules\readable-stream\lib\_stream_writable.js:302:11)
+    at DerivedLogger.ondata (C:\Users\saman\ITINFO\node_modules\readable-stream\lib\_stream_readable.js:629:20)
+    at DerivedLogger.emit (node:events:531:35)
+    at addChunk (C:\Users\saman\ITINFO\node_modules\readable-stream\lib\_stream_readable.js:279:12) 
+2024-12-25T08:20:38.702Z [31merror[39m: uncaughtException: Unexpected token '.'
+C:\Users\saman\ITINFO\controllers\dictionary.controller.js:21
+    const oldTerm = await Dictionary.findOne({ value.term });
+                                                    ^
+
+SyntaxError: Unexpected token '.'
+    at wrapSafe (node:internal/modules/cjs/loader:1378:20)
+    at Module._compile (node:internal/modules/cjs/loader:1428:41)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (C:\Users\saman\ITINFO\routes\dictionary.routes.js:1:83)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10) 
+2024-12-25T08:22:22.164Z [31merror[39m: uncaughtException: Unexpected token ';'
+C:\Users\saman\ITINFO\controllers\dictionary.controller.js:7
+    const { data = await Dictionary.find({});
+                                            ^
+
+SyntaxError: Unexpected token ';'
+    at wrapSafe (node:internal/modules/cjs/loader:1378:20)
+    at Module._compile (node:internal/modules/cjs/loader:1428:41)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (C:\Users\saman\ITINFO\routes\dictionary.routes.js:1:83)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10) 
+2024-12-25T08:22:48.313Z [31merror[39m: uncaughtException: write after end
+Error: write after end
+    at writeAfterEnd (C:\Users\saman\ITINFO\node_modules\readable-stream\lib\_stream_writable.js:264:12)
+    at Writable.write (C:\Users\saman\ITINFO\node_modules\readable-stream\lib\_stream_writable.js:300:21)
+    at File.log (C:\Users\saman\ITINFO\node_modules\winston\lib\winston\transports\file.js:222:34)
+    at RejectionStream._write (C:\Users\saman\ITINFO\node_modules\winston\lib\winston\rejection-stream.js:46:29)
+    at doWrite (C:\Users\saman\ITINFO\node_modules\readable-stream\lib\_stream_writable.js:390:139)
+    at writeOrBuffer (C:\Users\saman\ITINFO\node_modules\readable-stream\lib\_stream_writable.js:381:5)
+    at Writable.write (C:\Users\saman\ITINFO\node_modules\readable-stream\lib\_stream_writable.js:302:11)
+    at DerivedLogger.ondata (C:\Users\saman\ITINFO\node_modules\readable-stream\lib\_stream_readable.js:629:20)
+    at DerivedLogger.emit (node:events:531:35)
+    at addChunk (C:\Users\saman\ITINFO\node_modules\readable-stream\lib\_stream_readable.js:279:12) 
+2024-12-25T08:33:33.266Z [31merror[39m: uncaughtException: Unexpected string
+C:\Users\saman\ITINFO\routes\view.routes.js:15
+      throw new Error({"Xato"})
+                       ^^^^^^
+
+SyntaxError: Unexpected string
+    at wrapSafe (node:internal/modules/cjs/loader:1378:20)
+    at Module._compile (node:internal/modules/cjs/loader:1428:41)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (C:\Users\saman\ITINFO\app.js:10:20)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10) 
+2024-12-25T08:33:42.171Z [31merror[39m: uncaughtException: Unexpected token '}'
+C:\Users\saman\ITINFO\routes\view.routes.js:17
+      })
+      ^
+
+SyntaxError: Unexpected token '}'
+    at wrapSafe (node:internal/modules/cjs/loader:1378:20)
+    at Module._compile (node:internal/modules/cjs/loader:1428:41)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (C:\Users\saman\ITINFO\app.js:10:20)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10) 
+2024-12-25T08:34:23.012Z [31merror[39m: uncaughtException: Unexpected token '}'
+C:\Users\saman\ITINFO\routes\view.routes.js:15
+      throw new Error(` ${}`)
+                          ^
+
+SyntaxError: Unexpected token '}'
+    at wrapSafe (node:internal/modules/cjs/loader:1378:20)
+    at Module._compile (node:internal/modules/cjs/loader:1428:41)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (C:\Users\saman\ITINFO\app.js:10:20)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10) 
+2024-12-25T08:35:05.860Z [31merror[39m: uncaughtException: Missing initializer in const declaration
+C:\Users\saman\ITINFO\routes\view.routes.js:19
+    res.render(creatViewPage("dictionary"), {
+    ^^^
+
+SyntaxError: Missing initializer in const declaration
+    at wrapSafe (node:internal/modules/cjs/loader:1378:20)
+    at Module._compile (node:internal/modules/cjs/loader:1428:41)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (C:\Users\saman\ITINFO\app.js:10:20)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10) 
+2024-12-25T08:43:20.663Z [31merror[39m: uncaughtException: missing ) after argument list
+C:\Users\saman\ITINFO\routes\view.routes.js:51
+} (req, res) => {
+^
+
+SyntaxError: missing ) after argument list
+    at wrapSafe (node:internal/modules/cjs/loader:1378:20)
+    at Module._compile (node:internal/modules/cjs/loader:1428:41)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (C:\Users\saman\ITINFO\app.js:10:20)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10) 
+2024-12-25T08:43:24.023Z [31merror[39m: uncaughtException: missing ) after argument list
+C:\Users\saman\ITINFO\routes\view.routes.js:51
+} 
+^
+
+SyntaxError: missing ) after argument list
+    at wrapSafe (node:internal/modules/cjs/loader:1378:20)
+    at Module._compile (node:internal/modules/cjs/loader:1428:41)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (C:\Users\saman\ITINFO\app.js:10:20)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10) 
+2024-12-25T08:43:31.689Z [31merror[39m: uncaughtException: missing ) after argument list
+C:\Users\saman\ITINFO\routes\view.routes.js:51
+} 
+^
+
+SyntaxError: missing ) after argument list
+    at wrapSafe (node:internal/modules/cjs/loader:1378:20)
+    at Module._compile (node:internal/modules/cjs/loader:1428:41)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (C:\Users\saman\ITINFO\app.js:10:20)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10) 
+2024-12-25T08:43:38.253Z [31merror[39m: uncaughtException: missing ) after argument list
+C:\Users\saman\ITINFO\routes\view.routes.js:51
+} 
+^
+
+SyntaxError: missing ) after argument list
+    at wrapSafe (node:internal/modules/cjs/loader:1378:20)
+    at Module._compile (node:internal/modules/cjs/loader:1428:41)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (C:\Users\saman\ITINFO\app.js:10:20)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10) 
+2024-12-25T08:43:45.280Z [31merror[39m: uncaughtException: missing ) after argument list
+C:\Users\saman\ITINFO\routes\view.routes.js:51
+} 
+^
+
+SyntaxError: missing ) after argument list
+    at wrapSafe (node:internal/modules/cjs/loader:1378:20)
+    at Module._compile (node:internal/modules/cjs/loader:1428:41)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (C:\Users\saman\ITINFO\app.js:10:20)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10) 
+2024-12-25T08:44:52.622Z [31merror[39m: uncaughtException: missing ) after argument list
+C:\Users\saman\ITINFO\routes\view.routes.js:72
+}
+^
+
+SyntaxError: missing ) after argument list
+    at wrapSafe (node:internal/modules/cjs/loader:1378:20)
+    at Module._compile (node:internal/modules/cjs/loader:1428:41)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (C:\Users\saman\ITINFO\app.js:10:20)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10) 
+2024-12-25T08:44:58.527Z [31merror[39m: uncaughtException: missing ) after argument list
+C:\Users\saman\ITINFO\routes\view.routes.js:72
+}
+^
+
+SyntaxError: missing ) after argument list
+    at wrapSafe (node:internal/modules/cjs/loader:1378:20)
+    at Module._compile (node:internal/modules/cjs/loader:1428:41)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (C:\Users\saman\ITINFO\app.js:10:20)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10) 
+2024-12-25T08:45:00.462Z [31merror[39m: uncaughtException: missing ) after argument list
+C:\Users\saman\ITINFO\routes\view.routes.js:72
+}
+^
+
+SyntaxError: missing ) after argument list
+    at wrapSafe (node:internal/modules/cjs/loader:1378:20)
+    at Module._compile (node:internal/modules/cjs/loader:1428:41)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (C:\Users\saman\ITINFO\app.js:10:20)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10) 
+2024-12-25T08:45:03.191Z [31merror[39m: uncaughtException: missing ) after argument list
+C:\Users\saman\ITINFO\routes\view.routes.js:72
+}
+^
+
+SyntaxError: missing ) after argument list
+    at wrapSafe (node:internal/modules/cjs/loader:1378:20)
+    at Module._compile (node:internal/modules/cjs/loader:1428:41)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (C:\Users\saman\ITINFO\app.js:10:20)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10) 
+2024-12-25T08:45:06.887Z [31merror[39m: uncaughtException: missing ) after argument list
+C:\Users\saman\ITINFO\routes\view.routes.js:72
+}
+^
+
+SyntaxError: missing ) after argument list
+    at wrapSafe (node:internal/modules/cjs/loader:1378:20)
+    at Module._compile (node:internal/modules/cjs/loader:1428:41)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (C:\Users\saman\ITINFO\app.js:10:20)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10) 
+2024-12-25T08:45:11.190Z [31merror[39m: uncaughtException: missing ) after argument list
+C:\Users\saman\ITINFO\routes\view.routes.js:72
+}
+^
+
+SyntaxError: missing ) after argument list
+    at wrapSafe (node:internal/modules/cjs/loader:1378:20)
+    at Module._compile (node:internal/modules/cjs/loader:1428:41)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (C:\Users\saman\ITINFO\app.js:10:20)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10) 
+2024-12-25T08:45:54.607Z [31merror[39m: uncaughtException: missing ) after argument list
+C:\Users\saman\ITINFO\routes\view.routes.js:93
+}
+^
+
+SyntaxError: missing ) after argument list
+    at wrapSafe (node:internal/modules/cjs/loader:1378:20)
+    at Module._compile (node:internal/modules/cjs/loader:1428:41)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (C:\Users\saman\ITINFO\app.js:10:20)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10) 
+2024-12-25T09:03:15.483Z [31merror[39m: uncaughtException: Router.use() requires a middleware function
+TypeError: Router.use() requires a middleware function
+    at Function.use (C:\Users\saman\ITINFO\node_modules\express\lib\router\index.js:462:11)
+    at Object.<anonymous> (C:\Users\saman\ITINFO\routes\index.routes.js:20:8)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (C:\Users\saman\ITINFO\app.js:7:20)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14) 
+2024-12-25T09:03:16.257Z [31merror[39m: uncaughtException: Router.use() requires a middleware function
+TypeError: Router.use() requires a middleware function
+    at Function.use (C:\Users\saman\ITINFO\node_modules\express\lib\router\index.js:462:11)
+    at Object.<anonymous> (C:\Users\saman\ITINFO\routes\index.routes.js:20:8)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (C:\Users\saman\ITINFO\app.js:7:20)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14) 
+2024-12-25T09:03:17.114Z [31merror[39m: uncaughtException: Router.use() requires a middleware function
+TypeError: Router.use() requires a middleware function
+    at Function.use (C:\Users\saman\ITINFO\node_modules\express\lib\router\index.js:462:11)
+    at Object.<anonymous> (C:\Users\saman\ITINFO\routes\index.routes.js:20:8)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (C:\Users\saman\ITINFO\app.js:7:20)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14) 
+2024-12-25T09:03:19.574Z [31merror[39m: uncaughtException: Router.use() requires a middleware function
+TypeError: Router.use() requires a middleware function
+    at Function.use (C:\Users\saman\ITINFO\node_modules\express\lib\router\index.js:462:11)
+    at Object.<anonymous> (C:\Users\saman\ITINFO\routes\index.routes.js:20:8)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (C:\Users\saman\ITINFO\app.js:7:20)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14) 
+2024-12-25T09:03:20.877Z [31merror[39m: uncaughtException: Router.use() requires a middleware function
+TypeError: Router.use() requires a middleware function
+    at Function.use (C:\Users\saman\ITINFO\node_modules\express\lib\router\index.js:462:11)
+    at Object.<anonymous> (C:\Users\saman\ITINFO\routes\index.routes.js:20:8)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (C:\Users\saman\ITINFO\app.js:7:20)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14) 
+2024-12-25T09:04:22.026Z [31merror[39m: uncaughtException: The "id" argument must be of type string. Received undefined
+TypeError [ERR_INVALID_ARG_TYPE]: The "id" argument must be of type string. Received undefined
+    at Module.require (node:internal/modules/cjs/loader:1304:3)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (C:\Users\saman\ITINFO\routes\index.routes.js:11:21)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (C:\Users\saman\ITINFO\app.js:7:20) 
+2024-12-25T09:04:23.602Z [31merror[39m: uncaughtException: Cannot find module '/'
+Require stack:
+- C:\Users\saman\ITINFO\routes\index.routes.js
+- C:\Users\saman\ITINFO\app.js
+Error: Cannot find module '/'
+Require stack:
+- C:\Users\saman\ITINFO\routes\index.routes.js
+- C:\Users\saman\ITINFO\app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1225:15)
+    at Module._load (node:internal/modules/cjs/loader:1051:27)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (C:\Users\saman\ITINFO\routes\index.routes.js:11:21)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19) 
+2024-12-25T09:04:26.171Z [31merror[39m: uncaughtException: Cannot find module './'
+Require stack:
+- C:\Users\saman\ITINFO\routes\index.routes.js
+- C:\Users\saman\ITINFO\app.js
+Error: Cannot find module './'
+Require stack:
+- C:\Users\saman\ITINFO\routes\index.routes.js
+- C:\Users\saman\ITINFO\app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1225:15)
+    at Module._load (node:internal/modules/cjs/loader:1051:27)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (C:\Users\saman\ITINFO\routes\index.routes.js:11:21)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19) 
+2024-12-25T09:04:30.424Z [31merror[39m: uncaughtException: Router.use() requires a middleware function
+TypeError: Router.use() requires a middleware function
+    at Function.use (C:\Users\saman\ITINFO\node_modules\express\lib\router\index.js:462:11)
+    at Object.<anonymous> (C:\Users\saman\ITINFO\routes\index.routes.js:21:8)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (C:\Users\saman\ITINFO\app.js:7:20)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14) 
+2024-12-26T07:18:44.695Z [31merror[39m: uncaughtException: refreshAuthorToken is not defined
+ReferenceError: refreshAuthorToken is not defined
+    at Object.<anonymous> (C:\Users\saman\ITINFO\routes\admin.routes.js:14:25)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (C:\Users\saman\ITINFO\routes\index.routes.js:10:21)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10) 
+2024-12-26T07:18:49.509Z [31merror[39m: uncaughtException: refre is not defined
+ReferenceError: refre is not defined
+    at Object.<anonymous> (C:\Users\saman\ITINFO\routes\admin.routes.js:14:25)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (C:\Users\saman\ITINFO\routes\index.routes.js:10:21)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10) 
+2024-12-26T08:13:36.042Z [31merror[39m: uncaughtException: Unexpected identifier 'error'
+C:\Users\saman\ITINFO\controllers\admin.controller.js:182
+      return res.status(401).send({ message: "" error: error.message });
+                                                ^^^^^
+
+SyntaxError: Unexpected identifier 'error'
+    at wrapSafe (node:internal/modules/cjs/loader:1378:20)
+    at Module._compile (node:internal/modules/cjs/loader:1428:41)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (C:\Users\saman\ITINFO\routes\admin.routes.js:9:5)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10) 
+2024-12-26T08:13:44.032Z [31merror[39m: uncaughtException: Unexpected identifier 'error'
+C:\Users\saman\ITINFO\controllers\admin.controller.js:182
+      return res.status(401).send({ message: "Error veriy refreshToken" error: error.message });
+                                                                        ^^^^^
+
+SyntaxError: Unexpected identifier 'error'
+    at wrapSafe (node:internal/modules/cjs/loader:1378:20)
+    at Module._compile (node:internal/modules/cjs/loader:1428:41)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (C:\Users\saman\ITINFO\routes\admin.routes.js:9:5)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10) 
+2024-12-26T08:19:03.409Z [31merror[39m: uncaughtException: Unexpected token '<'
+C:\Users\saman\ITINFO\services\admin_service.js:29
+  async <li class="nav-item">
+        ^
+
+SyntaxError: Unexpected token '<'
+    at wrapSafe (node:internal/modules/cjs/loader:1378:20)
+    at Module._compile (node:internal/modules/cjs/loader:1428:41)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (C:\Users\saman\ITINFO\police_middleware\admin_police.js:2:13)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10) 
+2024-12-26T08:19:56.526Z [31merror[39m: uncaughtException: Unexpected token ']'
+C:\Users\saman\ITINFO\services\admin_service.js:24
+    ];
+    ^
+
+SyntaxError: Unexpected token ']'
+    at wrapSafe (node:internal/modules/cjs/loader:1378:20)
+    at Module._compile (node:internal/modules/cjs/loader:1428:41)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+    at Module.require (node:internal/modules/cjs/loader:1311:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (C:\Users\saman\ITINFO\police_middleware\admin_police.js:2:13)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10) 

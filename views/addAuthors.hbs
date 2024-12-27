@@ -1,0 +1,96 @@
+<form id="form">
+    <div class="container" >
+      <div class="mb-3">
+        <label for="first_name" class="form-label">First Name</label>
+        <input style="background-color:bisque;"
+          type="text"
+          class="form-control"
+          id="first_name"
+          name="first_name"
+          placeholder="Samandar"
+          aria-describedby="first_nameHelp"
+        />
+      </div>
+      <div class="mb-3">
+        <label for="last_name" class="form-label">Last name</label>
+        <input style="background-color:bisque;"
+          type="text"
+          class="form-control"
+          id="last_name"
+          name="last_name"
+          placeholder="Oydinov"
+        />
+      </div>
+      <div class="mb-3">
+        <label for="email" class="form-label">Email</label>
+        <input style="background-color:bisque;"
+          type="email"
+          class="form-control"
+          id="email"
+          name="email"
+          placeholder="Oydinov"
+        />
+      </div>
+      <div class="mb-3">
+        <label for="nick_name" class="form-label">Nick name</label>
+        <input style="background-color:bisque;"
+          type="text"
+          class="form-control"
+          id="nick_name"
+          name="nick_name"
+          placeholder="samandar"
+        />
+      </div>
+      <div class="mb-3">
+        <label for="phone" class="form-label">Phone</label>
+        <input style="background-color:bisque;"
+          type="tel"
+          class="form-control"
+          id="phone"
+          name="phone"
+          placeholder="99-999-99-99"
+        />
+      </div>
+      <div class="mb-3">
+        <label for="password" class="form-label">Password</label>
+        <input style="background-color:bisque;"
+          type="password"
+          class="form-control"
+          id="password"
+          name="password"
+          placeholder="12345"
+        />
+      </div>
+      <div class="mb-3">
+        <label for="info" class="form-label">Info</label>
+        <input style="background-color:bisque;"
+          type="text"
+          class="form-control"
+          id="info"
+          name="info"
+          placeholder="info"
+        />
+      </div>
+      <div class="mb-3">
+        <label for="position" class="form-label">Position</label>
+        <input style="background-color:bisque;"
+          type="text"
+          class="form-control"
+          id="position"
+          name="position"
+          placeholder="Navoiy"
+        />
+      </div>
+    </div>
+  <button type="submit">Submit</button>
+</form>
+
+
+<script src="./js/addAuthor_script.js"></script>
+<script>
+    const form = document.getElementById("form")
+    form.addEventListener("submit", (e) => {
+        e.preventDefault()
+        addAuthor()
+        })
+</script>

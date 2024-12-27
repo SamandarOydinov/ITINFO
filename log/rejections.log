@@ -1,0 +1,54 @@
+2024-12-24T10:54:33.926Z [31merror[39m: unhandledRejection: unhandledRejection example
+Error: unhandledRejection example
+    at C:\Users\saman\ITINFO\controllers\author.controller.js:71:14
+    at new Promise (<anonymous>)
+    at loginAuthor (C:\Users\saman\ITINFO\controllers\author.controller.js:70:5)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5) 
+2024-12-24T11:18:49.833Z [31merror[39m: unhandledRejection: unhandledRejection example
+Error: unhandledRejection example
+    at C:\Users\saman\ITINFO\controllers\author.controller.js:71:14
+    at new Promise (<anonymous>)
+    at loginAuthor (C:\Users\saman\ITINFO\controllers\author.controller.js:70:5)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5) 
+2024-12-25T07:46:25.865Z [31merror[39m: unhandledRejection: errorHandler is not defined
+ReferenceError: errorHandler is not defined
+    at C:\Users\saman\ITINFO\routes\view.routes.js:18:5
+    at Layer.handle [as handle_request] (C:\Users\saman\ITINFO\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\saman\ITINFO\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\saman\ITINFO\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\saman\ITINFO\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\saman\ITINFO\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\saman\ITINFO\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\saman\ITINFO\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\saman\ITINFO\node_modules\express\lib\router\index.js:175:3)
+    at router (C:\Users\saman\ITINFO\node_modules\express\lib\router\index.js:47:12) 
+2024-12-25T08:02:16.130Z [31merror[39m: unhandledRejection: Cannot read properties of undefined (reading 'status')
+TypeError: Cannot read properties of undefined (reading 'status')
+    at errorHandler (C:\Users\saman\ITINFO\helpers\error_Handler.js:5:14)
+    at getAllDictionary (C:\Users\saman\ITINFO\controllers\dictionary.controller.js:11:5)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5) 
+2024-12-25T08:03:02.219Z [31merror[39m: unhandledRejection: Cannot read properties of undefined (reading 'status')
+TypeError: Cannot read properties of undefined (reading 'status')
+    at errorHandler (C:\Users\saman\ITINFO\helpers\error_Handler.js:5:14)
+    at getAllDictionary (C:\Users\saman\ITINFO\controllers\dictionary.controller.js:11:5)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5) 
+2024-12-25T08:18:22.615Z [31merror[39m: unhandledRejection: Cannot read properties of undefined (reading 'status')
+TypeError: Cannot read properties of undefined (reading 'status')
+    at errorHandler (C:\Users\saman\ITINFO\helpers\error_Handler.js:5:14)
+    at getAllDictionary (C:\Users\saman\ITINFO\controllers\dictionary.controller.js:11:5)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5) 
+2024-12-25T08:22:46.661Z [31merror[39m: unhandledRejection: Cannot read properties of undefined (reading 'status')
+TypeError: Cannot read properties of undefined (reading 'status')
+    at errorHandler (C:\Users\saman\ITINFO\helpers\error_Handler.js:5:14)
+    at getAllDictionary (C:\Users\saman\ITINFO\controllers\dictionary.controller.js:11:5)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5) 
+2024-12-25T08:25:33.314Z [31merror[39m: unhandledRejection: Cannot read properties of undefined (reading 'send')
+TypeError: Cannot read properties of undefined (reading 'send')
+    at errorHandler (C:\Users\saman\ITINFO\helpers\error_Handler.js:5:14)
+    at getAllDictionary (C:\Users\saman\ITINFO\controllers\dictionary.controller.js:11:5)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5) 
+2024-12-25T08:27:45.670Z [31merror[39m: unhandledRejection: Cannot read properties of undefined (reading 'status')
+TypeError: Cannot read properties of undefined (reading 'status')
+    at errorHandler (C:\Users\saman\ITINFO\helpers\error_Handler.js:5:14)
+    at getAllDictionary (C:\Users\saman\ITINFO\controllers\dictionary.controller.js:11:5)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5) 
